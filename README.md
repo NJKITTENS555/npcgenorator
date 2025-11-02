@@ -11,7 +11,8 @@ This program is meant to generate non-playable characters (NPCs) and their skill
  To decide if the npc is clumsy it generates a number that is 1 or 2. If the number is 2 then the npc is clumsy, otherwise the npc is not clumsy. 
 
 For speed a random number is generated between 1 and 100 and that is the speed. 100 is the fastest and 1 is the slowest
-It repeats this process for all the names on the list, so that each one has unique stats.
+It repeats this process for all the names on the list, so that each one has unique stats. 
+it prints all the information and stats into an f-string to sort everything.
 
 I made this program very simple and easy to understand. If you have any questions don’t be afraid to ask questions. 
-If you have any issues I will be very happy to fix them. Don’t be afraid to let me know if there is anything you want me to add. 
+If you have any issues I will be very happy to fix them. Don’t be afraid to let me know if there is anything you want me to add anything. 
